@@ -26,9 +26,13 @@ Multi-page report structure with a clean, modern UI
 📈 Project Learnings
 
 🔹 Building YoY calculations and dynamic measures in DAX
+
 🔹 Designing multiple dashboard pages with drill-through
+
 🔹 Creating intuitive slicers (Salary Range, Years, Job Title)
+
 🔹 Turning salary datasets into clear workforce insights
+
 
 🎯 Future Scope
 
